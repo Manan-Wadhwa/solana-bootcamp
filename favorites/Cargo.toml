@@ -1,0 +1,2 @@
+[dependencies]
+anchor-lang = "0.28.0"  # or the latest version 
